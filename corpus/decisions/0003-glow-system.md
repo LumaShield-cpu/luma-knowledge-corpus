@@ -9,8 +9,8 @@ appear independently in
 forbidden.") — an independent source agreeing on both the palette and
 the exclusion strengthens this beyond a single-source claim.
 **Structure confirmed and corrected 2026-09-07:**
-SHIELD Architecture Series, Volume III (now in the
-[shield-canon](https://github.com/Solid-Stride/shield-canon) repo)
+[SHIELD Architecture Series, Volume III](https://github.com/Solid-Stride/shield-canon/blob/88455efd4221ee9d039888f7c0bdf570a251c840/01_CONSTITUTION/sources/shield-architecture-series-volume-iii.pdf.meta.md)
+(now in shield-canon)
 established that Ring and Glow are two distinct elements, not one — see
 [reconciliation/2026-09-07-ring-and-glow-split-red-stays-forbidden.md](../../reconciliation/2026-09-07-ring-and-glow-split-red-stays-forbidden.md).
 That same source also proposed adding Red as a real canon color; this

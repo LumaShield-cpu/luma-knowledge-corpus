@@ -9,12 +9,13 @@
 states a structural law: "everything works in fours" — the Shield has
 4 Pads around a core.
 
-ARCH-02 (now in the [shield-canon](https://github.com/Solid-Stride/shield-canon)
-repo) §18 explicitly rejects: *"a 4×4×4 or 16×4 pattern is a proven
-universal law."* ARC-01's abstract (also in shield-canon) separately
-says it "recasts the claimed 64-node mathematical Lock as a 16-by-4
-coverage matrix" and "replaces an asserted universal 16-section packet
-symmetry."
+[ARCH-02](https://github.com/Solid-Stride/shield-canon/blob/88455efd4221ee9d039888f7c0bdf570a251c840/07_TRANSLATION_ENGINE/sources/arch-02-shield-labs-translation-engine-volume-i-v1.0.0.docx.meta.md)
+(now in shield-canon) §18 explicitly rejects: *"a 4×4×4 or 16×4 pattern
+is a proven universal law."*
+[ARC-01](https://github.com/Solid-Stride/shield-canon/blob/88455efd4221ee9d039888f7c0bdf570a251c840/01_CONSTITUTION/sources/arc-01-shield-canonical-terminology-and-relational-architecture-v0.1.docx.meta.md)'s
+abstract (also in shield-canon) separately says it "recasts the
+claimed 64-node mathematical Lock as a 16-by-4 coverage matrix" and
+"replaces an asserted universal 16-section packet symmetry."
 
 At a glance these look like they could be the same claim under
 rejection.

@@ -83,7 +83,8 @@ shield-canon's Law 3 bans "dashboard, page, menu, navigation, card,
 board, portal" in canonical documentation, stated rationale: "these
 terms promote cognitive patterns that contradict SHIELD design
 principles." This independently arrives at the same doctrine already
-in this corpus ("SHIELD Is Not a Dashboard," an anti-patterns list —
+in this corpus ("SHIELD Is Not a Dashboard,"
+[an anti-patterns list](https://github.com/Solid-Stride/shield-canon/blob/88455efd4221ee9d039888f7c0bdf570a251c840/01_CONSTITUTION/decisions/0006-interaction-doctrine-detail.md) —
 now itself moved to shield-canon as part of the Luma/Shield split —
 naming "Dashboard Overload" and "Menu Sprawl") without citing it.
 **Not a conflict** — two documents reaching the same rule

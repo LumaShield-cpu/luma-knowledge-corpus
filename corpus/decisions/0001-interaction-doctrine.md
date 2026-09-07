@@ -5,7 +5,7 @@
 
 A fuller, independently-corroborating version of this doctrine (twelve
 design laws, anti-patterns, a concrete onboarding metric) has moved to
-the [shield-canon](https://github.com/Solid-Stride/shield-canon) repo
+[shield-canon's decision 0006](https://github.com/Solid-Stride/shield-canon/blob/88455efd4221ee9d039888f7c0bdf570a251c840/01_CONSTITUTION/decisions/0006-interaction-doctrine-detail.md)
 as part of the Luma/Shield corpus split.
 
 ## Context
