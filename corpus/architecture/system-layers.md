@@ -2,9 +2,10 @@
 
 **Source:** [Unified Canon State v3](../../sources/docs/lumacanonos-unified-canon-state-v3.md), §1 and §11.
 
-LumaShield is a **human coordination protocol platform** — not "an app,"
-but a state-based coordination language expressed through visual
-interfaces called Shields (see [expression-engine.md](../decisions/0002-expression-engine.md)).
+LumaShield is a **human coordination protocol platform** — a
+privacy-first coordination infrastructure expressed through visual
+interfaces called Shields, using state-based (not command-based)
+interaction (see [interaction-doctrine.md](../decisions/0001-interaction-doctrine.md)).
 
 ## Layers
 

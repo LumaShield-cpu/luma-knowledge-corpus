@@ -64,6 +64,18 @@ it's more recent than what it reset. When weighing conflicting sources,
 prefer whichever side is independently corroborated over whichever side
 is newer.
 
+**"Independently corroborated" means grounded in something that could
+plausibly disagree** — a different author, a different session grounded
+in different evidence, human ratification, or actual shipped behavior.
+Two ChatGPT sessions agreeing with each other is not corroboration if
+neither is grounded in anything but the model's own prior output — it
+may just be the same generator confidently restating its own earlier
+framing (see
+[reconciliation/2026-09-07-expression-engine-not-canon.md](reconciliation/2026-09-07-expression-engine-not-canon.md)
+for a case where this fooled a reconciliation pass). Before citing
+"multiple sources agree" as evidence, check what's actually generating
+each source.
+
 ## Conventions
 
 - `corpus/` docs are living — edit in place as truth changes, don't fork

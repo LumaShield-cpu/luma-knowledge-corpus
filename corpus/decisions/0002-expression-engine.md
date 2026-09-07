@@ -1,6 +1,16 @@
 # Decision 0002: The expression engine — Luma as a coordination language
 
-**Status:** Locked (per source; not yet re-confirmed against current build)
+> **REJECTED 2026-09-07 — not canon.** This was never an actual product
+> decision. It's a recurring rhetorical framing the AI itself kept
+> re-asserting across separate chat sessions — which is why it looked
+> corroborated by "independent" sources below. Those sources aren't
+> independent: they're the same model restating its own prior framing,
+> not separate human ratification. See
+> [reconciliation/2026-09-07-expression-engine-not-canon.md](../../reconciliation/2026-09-07-expression-engine-not-canon.md).
+> Left in place, not deleted, as a record of the mistake. Do not cite
+> this doc as canon.
+
+**Status:** ~~Locked~~ REJECTED — see notice above.
 **Source:** [Unified Canon State v3](../../sources/docs/lumacanonos-unified-canon-state-v3.md), §2.1.
 **Corroboration:** the same mapping appears independently in earlier
 extraction passes over separate source material — e.g.
