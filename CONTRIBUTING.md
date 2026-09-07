@@ -51,6 +51,19 @@ reconcile), you can write directly to `corpus/` citing the source — no
 reconciliation record needed. If you're not sure it's uncontested, it isn't;
 write the record.
 
+## Source authority
+
+Not all sources are equal, and recency does not automatically win. In
+particular: a
+[known corrupting event](reconciliation/2026-09-06-full-system-reset-non-authoritative.md) —
+a "Full System Reset" that told a chat session to treat no prior canon
+as locked — sits in the middle of this project's history. Material
+generated only *because* that reset told a session to reinvent
+definitions from scratch is not automatically trustworthy just because
+it's more recent than what it reset. When weighing conflicting sources,
+prefer whichever side is independently corroborated over whichever side
+is newer.
+
 ## Conventions
 
 - `corpus/` docs are living — edit in place as truth changes, don't fork
