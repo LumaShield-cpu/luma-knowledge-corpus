@@ -2,6 +2,8 @@
 
 Newest first. One line per record: date, topic, link.
 
+- 2026-09-07 — shield-canon collision: separate scoping resolves the two-Constitutions question; Red-as-canon-color remains open — [2026-09-07-shield-canon-collision.md](2026-09-07-shield-canon-collision.md)
+
 - 2026-09-07 — Ring and Glow are distinct elements; Red stays forbidden — [2026-09-07-ring-and-glow-split-red-stays-forbidden.md](2026-09-07-ring-and-glow-split-red-stays-forbidden.md)
 
 - 2026-09-07 — "Core" is current; "Pearl" and "Window"/"Context Window" are dropped naming — [2026-09-07-core-not-pearl.md](2026-09-07-core-not-pearl.md)

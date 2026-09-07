@@ -10,6 +10,18 @@ Shield Labs is the governing organization. LumaShield is a
 privacy-first coordination infrastructure product built on this
 architecture. The constitutional structure is exactly two volumes:
 
+## Product tier
+
+**LumaShield** is free, public, and for personal use. **Shield**
+(unqualified) is the professional/business tier and up. Confirmed by
+the product owner, 2026-09-07 — see
+[reconciliation/2026-09-07-shield-canon-collision.md](../../reconciliation/2026-09-07-shield-canon-collision.md).
+This is also why LumaShield gets its own, separately-scoped design
+system ([shield-canon](../../sources/docs/shield-canon-constitution-laws.md)) —
+it isn't required to inherit every rule that governs the broader
+professional/business Shield architecture (see the precedent already
+established for the [four-Pad layout](shield-anatomy.md)).
+
 | Volume | Name | Responsibility |
 | --- | --- | --- |
 | **Volume I** | Translation Engine | Evidence ingestion, operational-knowledge formation, validation, adjudication, governance, release, and Operational Context Package (OCP) formation. See [translation-engine.md](translation-engine.md). |
