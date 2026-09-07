@@ -10,7 +10,14 @@ Provenance
   cite as canon without a reconciliation record or fast-path citation
   per /CONTRIBUTING.md.
 
-  Note: IMPORTANT: opens with text nearly identical to shield-symantec-human-interaction-layer-domain.pdf (already in this corpus), but titled 'SHIELD Edge' rather than plain 'SHIELD.' Likely a renamed/updated version of the same document -- not yet reconciled; do not assume which (if either) supersedes the other.
+  RESOLVED 2026-09-07: confirmed via full-text diff to be the exact
+  same document as shield-symantec-human-interaction-layer-domain.pdf,
+  with every "SHIELD" renamed to "SHIELD Edge" -- this file supersedes
+  that one. Per the product owner, "SHIELD Edge" specifically denotes
+  the browser-based, on-device rendering kernel, distinct from the
+  installed "Shield" and "Enterprise SHIELD" clients -- see
+  /reconciliation/2026-09-07-shield-edge-naming-and-deployment.md and
+  /corpus/architecture/enterprise-shield.md.
 -->
 
 # Extracted text (for reference -- verify against the original PDF before citing precisely)

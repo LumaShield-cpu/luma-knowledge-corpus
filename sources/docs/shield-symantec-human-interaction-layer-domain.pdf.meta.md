@@ -4,14 +4,14 @@ Provenance
   Universal Experience Composition & Rendering Architecture
   Type: PDF, Architectural Specification v1.0, Translation Engine Series
   Dropped locally: 2026-09-07, by stacey@solidstride.ca
-  Status: RAW, UNVERIFIED -- not yet reconciled against the LumaShield
-  material. Per the product owner: SHIELD is the broader platform
-  ("big brother") that LumaShield runs on top of, sharing the same
-  Operational Context Package (OCP) data model. A dedicated
-  reconciliation pass against the Translation Engine and LumaShield
-  corpus is expected and has not happened yet -- do not assume terms
-  that overlap by name (Core, Pads, Ring) mean exactly the same thing
-  in both systems until reconciled. See /CONTRIBUTING.md.
+
+  SUPERSEDED 2026-09-07 by shield-edge.pdf -- confirmed via full-text
+  diff to be the exact same document with every "SHIELD" instance
+  renamed to "SHIELD Edge." The "Symantec Human Interaction Layer
+  Domain" backronym is also superseded by ARCH-02's "Semantic Human
+  Intelligence & Execution Layer Domain." See
+  /reconciliation/2026-09-07-shield-edge-naming-and-deployment.md.
+  Kept for provenance; cite shield-edge.pdf going forward.
 -->
 
 # Extracted text (for reference -- verify against the original PDF before citing precisely)
