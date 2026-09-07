@@ -39,7 +39,7 @@ This is the same kind of scoping already established for the
 LumaShield can make its own product-level choices without those
 choices being universal SHIELD law.
 
-## (b) Red as a canon color in shield-canon — OPEN, needs a decision
+## (b) Red as a canon color in shield-canon — RESOLVED: allowed
 
 [shield-canon-design-tokens.md](../sources/docs/shield-canon-design-tokens.md)
 (`03_VISUAL_GRAMMAR/DESIGN_TOKENS.md`, self-marked APPROVED) defines
@@ -55,13 +55,15 @@ retrieving session and **retracted** — that file's compliance checklist
 has no color check at all. The red conflict lives entirely in
 `DESIGN_TOKENS.md`.
 
-**Not yet resolved:** does the "Red is forbidden" rule (established at
-the broader SHIELD/Architecture-Series doctrine level — see
-[decision 0003](../corpus/decisions/0003-glow-system.md)) apply inside
-LumaShield's own separately-scoped design system, the same way the
-four-Pad choice was allowed to be LumaShield-specific? Or is this a
-real bug in shield-canon that needs fixing? This needs the product
-owner's call before either corpus gets updated.
+**Resolution, confirmed by the product owner:** allowed. The "Red is
+forbidden" rule (established at the broader SHIELD/Architecture-Series
+doctrine level — see [decision 0003](../corpus/decisions/0003-glow-system.md))
+does not bind LumaShield's separately-scoped design system, on the same
+precedent as the [four-Pad layout](../corpus/architecture/shield-anatomy.md).
+Decision 0003 has been annotated accordingly. **Do not treat this as
+license to relax the red-ban anywhere else** — it applies specifically
+to LumaShield's own product design system, per its separate scoping,
+not as a general softening of the rule.
 
 ## (c) Overlapping forbidden-term lists — convergent, not conflicting
 
