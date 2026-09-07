@@ -45,8 +45,9 @@ see the reconciliation record above.
 **Scope note (2026-09-07):** this ban applies to the broader Shield
 (professional/business) architecture. LumaShield's own,
 separately-scoped design system
-([shield-canon](../../sources/docs/shield-canon-design-tokens.md)) is
-confirmed exempt — it uses red for `danger`/`error` tokens as its own
+([shield-canon](https://github.com/Solid-Stride/shield-canon), a
+separate repo — out of this corpus's scope, see the reconciliation
+record below) is confirmed exempt — it uses red for `danger`/`error` tokens as its own
 product-level choice, the same precedent as the
 [four-Pad layout](../architecture/shield-anatomy.md). See
 [reconciliation/2026-09-07-shield-canon-collision.md](../../reconciliation/2026-09-07-shield-canon-collision.md).

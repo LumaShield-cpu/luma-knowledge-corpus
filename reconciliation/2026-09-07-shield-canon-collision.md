@@ -31,9 +31,13 @@ Three things surfaced instead:
 
 ## (a) Two independent "Constitutions" — RESOLVED, not a conflict
 
-[shield-canon-constitution-laws.md](../sources/docs/shield-canon-constitution-laws.md)
-(`01_CONSTITUTION/LAWS.md`) declares itself supreme authority within
-its own repo, with no reference to ARCH-02 or any Series volume.
+`01_CONSTITUTION/LAWS.md` in
+[github.com/Solid-Stride/shield-canon](https://github.com/Solid-Stride/shield-canon)
+declares itself supreme authority within its own repo, with no
+reference to ARCH-02 or any Series volume. (Verbatim text was relayed
+via a peer Claude session working directly in that repo, then reviewed
+here — not kept as a local copy, since shield-canon is confirmed out
+of this corpus's scope; see the repo itself for the current text.)
 
 **Resolution:** confirmed by the product owner —
 shield-canon is deliberately, separately scoped. **LumaShield is
@@ -50,19 +54,18 @@ choices being universal SHIELD law.
 
 ## (b) Red as a canon color in shield-canon — RESOLVED: allowed
 
-[shield-canon-design-tokens.md](../sources/docs/shield-canon-design-tokens.md)
-(`03_VISUAL_GRAMMAR/DESIGN_TOKENS.md`, self-marked APPROVED) defines
-`color.action.danger` and `color.state.error` as `#E5484D` (red) — the
-**only** token available for either semantic (its own Usage Rule 1
-makes the token set exclusive). This is confirmed verbatim, not a
-paraphrase.
+`03_VISUAL_GRAMMAR/DESIGN_TOKENS.md` in shield-canon (self-marked
+APPROVED) defines `color.action.danger` and `color.state.error` as
+`#E5484D` (red) — the **only** token available for either semantic
+(its own Usage Rule 1 makes the token set exclusive). This was
+confirmed verbatim (relayed by the peer session, not paraphrased) at
+the time of this reconciliation.
 
 This is narrower than first reported: an initial claim that
-[shield-canon-login-form-example-excerpt.md](../sources/docs/shield-canon-login-form-example-excerpt.md)
-self-certified compliance while visibly using red was checked by the
-retrieving session and **retracted** — that file's compliance checklist
-has no color check at all. The red conflict lives entirely in
-`DESIGN_TOKENS.md`.
+`10_EXAMPLES/login-form.md` self-certified compliance while visibly
+using red was checked by the retrieving session and **retracted** —
+that file's compliance checklist has no color check at all. The red
+"conflict" lives entirely in `DESIGN_TOKENS.md`.
 
 **Resolution, confirmed by the product owner:** allowed. The "Red is
 forbidden" rule (established at the broader SHIELD/Architecture-Series
@@ -104,7 +107,13 @@ trail.
 
 - [corpus/architecture/system-layers.md](../corpus/architecture/system-layers.md) —
   added the LumaShield (free/personal) vs. Shield (professional/
-  business+) product-tier distinction.
-- Three shield-canon source files ingested with full git provenance
-  (repo, branch, commit, blob SHA, author).
-- (b) remains open pending the product owner's decision.
+  business+) product-tier distinction. (This doc has since moved to
+  shield-canon as part of the broader-Shield/Luma corpus split —
+  2026-09-07 — but the product-tier fact it recorded remains true.)
+- [corpus/decisions/0003-glow-system.md](../corpus/decisions/0003-glow-system.md) —
+  annotated with the LumaShield/shield-canon red exemption.
+- The three shield-canon files (LAWS.md, DESIGN_TOKENS.md, the
+  login-form excerpt) were briefly ingested verbatim with full git
+  provenance for this reconciliation, then removed once shield-canon
+  was confirmed out of scope — they're redundant with the actual repo,
+  which is the citable source going forward.
