@@ -1,5 +1,14 @@
 # Reconciliation: "no fixed four-option model" vs. "4 Pads / everything works in fours"
 
+> **Authoritative copy:** `github.com/Solid-Stride/shield-canon`,
+> `01_CONSTITUTION/reconciliation/2026-09-07-no-fixed-four-option-model.md`
+> (currently on branch `feature/shield-architecture-migration`,
+> pending merge). Confirmed by the product owner, 2026-09-07 — it's
+> Shield's law. This copy is kept here as a secondary reference for
+> citation from LumaShield-scoped corpus docs; if the two ever diverge
+> in substance rather than just citation style, shield-canon's copy
+> wins.
+
 **Date:** 2026-09-07
 **Author:** Stacey (via reconciliation session)
 
