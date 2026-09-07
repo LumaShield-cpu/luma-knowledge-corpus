@@ -5,6 +5,11 @@
 (architecture detail, superseding the earlier "plain SHIELD" naming —
 see [reconciliation/2026-09-07-shield-edge-naming-and-deployment.md](../../reconciliation/2026-09-07-shield-edge-naming-and-deployment.md)).
 
+See [composition-engine.md](composition-engine.md) for the
+engineering-level resolution pipeline (Identity → Intent → Context →
+Permission → Capability → Experience) beneath this description —
+draft-tier, but consistent with everything below.
+
 ## What it is
 
 Volume II — **Enterprise SHIELD** ("Semantic Human Intelligence &
