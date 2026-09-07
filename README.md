@@ -1,39 +1,24 @@
-# luma-knowledge-corpus
+# luma-knowledge-corpus (retired)
 
-The single source of truth for Luma, rebuilt after months of documentation and
-decision drift during development. Where old docs, tickets, and code
-disagree, this repo is where that gets resolved — once, on the record — so
-the answer doesn't have to be re-litigated every time it comes up.
+This repository is **superseded**. It did the initial work of
+rebuilding a trustworthy source of truth for Shield/LumaShield after
+months of documentation drift, then split into two dedicated
+successors once that work identified the real boundary between them:
 
-## Why this exists
+- **[shield-canon](https://github.com/Solid-Stride/shield-canon)** —
+  the broader Shield architecture (Translation Engine, Enterprise
+  SHIELD, the professional/business tier) and LumaShield's own design
+  system.
+- **[lumashield-canon](https://github.com/LumaShield-cpu/lumashield-canon)**
+  (private) — Luma and LumaShield's own dedicated canon: identity,
+  architecture, decisions, and patents.
 
-Over time, docs stopped matching the product, decisions were made in chat
-threads and never written down, and tickets described plans that shipped
-differently (or didn't ship at all). This repo does not assume any existing
-document is correct by default — including ones in here already. Everything
-in `corpus/` has been checked against current reality and is safe to treat
-as true today. Everything in `sources/` is a raw, unverified pull that still
-needs to earn its way in.
+Every file that was reconciled here has been migrated, verified
+byte-identical, to one of the two repos above. This repo's content has
+been removed rather than left to drift out of sync with its
+successors; its git history remains as a record of how the
+reconciliation was done, including the mistakes caught and corrected
+along the way.
 
-## Structure
-
-```
-corpus/          Canonical, current-truth knowledge. Trust this.
-sources/         Raw material pulled in from docs, tickets, chats, code.
-                 Unverified — inputs to reconciliation, not conclusions.
-reconciliation/  The record of each conflict found and how it was resolved.
-```
-
-See the README in each directory for what belongs there and how to add to it.
-
-## Workflow, in short
-
-1. Pull relevant material into `sources/` (don't edit it — keep it as found,
-   with where it came from and when).
-2. When a source conflicts with another source, with `corpus/`, or with
-   actual current behavior, open a reconciliation record in
-   `reconciliation/` describing the conflict and how it was settled.
-3. Once resolved, write or update the canonical doc in `corpus/` and link
-   back to the reconciliation record that justified it.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the detailed process.
+If you're looking for current canon about Shield or Luma, it's in one
+of the two repos above — not here.
