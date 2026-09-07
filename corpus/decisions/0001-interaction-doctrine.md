@@ -3,9 +3,10 @@
 **Status:** Locked (per source; not yet re-confirmed against current build)
 **Source:** [Unified Canon State v3](../../sources/docs/lumacanonos-unified-canon-state-v3.md), §3, §5.
 
-See [0006-interaction-doctrine-detail.md](0006-interaction-doctrine-detail.md)
-for a fuller, independently-corroborating version of this doctrine
-(twelve design laws, anti-patterns, a concrete onboarding metric).
+A fuller, independently-corroborating version of this doctrine (twelve
+design laws, anti-patterns, a concrete onboarding metric) has moved to
+the [shield-canon](https://github.com/Solid-Stride/shield-canon) repo
+as part of the Luma/Shield corpus split.
 
 ## Context
 

@@ -5,7 +5,8 @@
 
 ## Conflict
 
-[SHIELD Architecture Series, Volume III](../sources/docs/shield-architecture-series-volume-iii.pdf.meta.md)
+SHIELD Architecture Series, Volume III (now in the
+[shield-canon](https://github.com/Solid-Stride/shield-canon) repo)
 (self-marked "Design Doctrine Draft") introduced two points of tension
 with [decision 0003](../corpus/decisions/0003-glow-system.md) (sourced
 from V3 + Luma Shield Documentation, two-source corroborated):

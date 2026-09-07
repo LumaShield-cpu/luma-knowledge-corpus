@@ -2,13 +2,31 @@
 
 **Source:** [Unified Canon State v3](../../sources/docs/lumacanonos-unified-canon-state-v3.md), §2, §6–9.
 
+## Product tier
+
+**LumaShield** is free, public, and for personal use. **Shield**
+(unqualified) is the professional/business tier and up. Confirmed by
+the product owner, 2026-09-07 — see
+[reconciliation/2026-09-07-shield-canon-collision.md](../../reconciliation/2026-09-07-shield-canon-collision.md).
+This is also why LumaShield gets its own, separately-scoped design
+system ([shield-canon](https://github.com/Solid-Stride/shield-canon),
+a separate repo) — it isn't required to inherit every rule that
+governs the broader professional/business Shield architecture, the
+same scoping already established below for the four-Pad layout.
+
+(Note: the broader Shield/Enterprise SHIELD architecture — Volume I/II
+structure, Translation Engine, Enterprise SHIELD, etc. — has moved to
+the shield-canon repo. This corpus stays LumaShield-only; see
+[CONTRIBUTING.md](../../CONTRIBUTING.md).)
+
 ## Structural law — scoped to LumaShield, not universal SHIELD
 
 > Everything works in fours.
 
 **This is a LumaShield product decision, not a universal SHIELD
 architectural constraint.** A formally approved Volume II instrument
-([Approval Incorporation Addendum v0.2.1](../../sources/docs/shield-volume-ii-approval-incorporation-addendum-v0.2.1.md),
+(Approval Incorporation Addendum v0.2.1, now in the
+[shield-canon](https://github.com/Solid-Stride/shield-canon) repo,
 Decision 5) explicitly states "no universal attention score or fixed
 four-option model governs every Shield" — universal SHIELD leaves the
 option/Pad count open per-Shield. LumaShield specifically has chosen
@@ -29,7 +47,8 @@ on this product-level quaternary structure:
 **"Pearl" is superseded.** Several sources (the
 [UI/UX Review](../../sources/docs/lumashield-ui-ux-review.md), the
 [Constitution outline](../../sources/docs/shield-constitution-v2-2026-07-05.pdf.meta.md),
-and [SHIELD Architecture Series Vol. II Part II](../../sources/docs/shield-architecture-series-volume-ii-part-ii.pdf.meta.md))
+and SHIELD Architecture Series Vol. II Part II, now in the
+[shield-canon](https://github.com/Solid-Stride/shield-canon) repo)
 use "Pearl" for this same central-anchor role. Confirmed with the
 product owner: Core/AOB is current, Pearl is old, dropped naming — see
 [reconciliation/2026-09-07-core-not-pearl.md](../../reconciliation/2026-09-07-core-not-pearl.md).

@@ -9,9 +9,9 @@ Two naming families for the Shield's interaction primitives have been
 recurring across sources:
 
 - **Core / Ring / Pads / Dial / Adaptive Operational Briefing (AOB)**
-  — from [shield-edge.pdf](../sources/docs/shield-edge.pdf.meta.md) and
-  [ARC-01](../sources/docs/arc-01-shield-canonical-terminology-and-relational-architecture-v0.1.docx.meta.md)'s
-  terminology dictionary. ARCH-02 §3.2 also names "Core... Adaptive
+  — from shield-edge.pdf and ARC-01's terminology dictionary (both now
+  in the [shield-canon](https://github.com/Solid-Stride/shield-canon)
+  repo). ARCH-02 §3.2 also names "Core... Adaptive
   Operational Briefing" by name (as things Volume I doesn't own),
   though ARCH-02 never itself defines these terms.
 - **Shield / Context Window / Dial / Pads / Pearl / Ring** — with
@@ -23,8 +23,8 @@ recurring across sources:
   "Pearl" as an internal nickname for the center), the
   [SHIELD Constitution v2 outline](../sources/docs/shield-constitution-v2-2026-07-05.pdf.meta.md)
   (lists "Dial, Pads, Pearl, Ring" together under planned Volume IX),
-  and
-  [SHIELD Architecture Series, Volume II — Part II](../sources/docs/shield-architecture-series-volume-ii-part-ii.pdf.meta.md)
+  and SHIELD Architecture Series, Volume II — Part II (now in
+  shield-canon)
   (fully defines "Pearl: the central confirmation, continuation, or
   decision anchor. Confirms when evidence is complete and action is
   ready" — occupying the same conceptual role as "Core").
@@ -52,9 +52,9 @@ Pearl and Context Window are old, dropped naming.**
   in its own right. Where a source describes a display-only,
   non-action layer, that concept now lives inside the Adaptive
   Operational Briefing / Semantic Experience Manifest framing rather
-  than as a standalone "Window" primitive — see
-  [enterprise-shield.md](../corpus/architecture/enterprise-shield.md).
-  (If a distinct "context display" concept turns out still to be
+  than as a standalone "Window" primitive — see enterprise-shield.md,
+  now in the [shield-canon](https://github.com/Solid-Stride/shield-canon)
+  repo. (If a distinct "context display" concept turns out still to be
   needed, that's a fresh design question, not a resurrection of
   "Window.")
 - The "SHIELD Architecture Series" (Volumes II–V, all self-marked "Not
