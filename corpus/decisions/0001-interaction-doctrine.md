@@ -21,7 +21,11 @@ ambiguity and drift, not a strength.
 
 **Functional roles:**
 - Shield = Action
-- Window = Context
+- ~~Window = Context~~ — "Window" is superseded terminology (see
+  [reconciliation/2026-09-07-core-not-pearl.md](../../reconciliation/2026-09-07-core-not-pearl.md)).
+  The underlying idea (a display-only, non-action context layer)
+  hasn't been re-stated under current naming — treat this half of the
+  functional-role split as an open question, not settled.
 
 **Constraint law:**
 > One Tap or It Fails.

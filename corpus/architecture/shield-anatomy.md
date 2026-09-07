@@ -26,23 +26,23 @@ on this product-level quaternary structure:
 - **Glow State Ring** — see [glow-system.md](../decisions/0003-glow-system.md).
 - **Shield Display** — a single-line context readout.
 
-One unverified naming note: a separate, later source
-([UI/UX Review](../../sources/docs/lumashield-ui-ux-review.md)) refers
-to the center informally as "the Pearl." The v3 source does not use this
-name (it says "Shield Core"). Not promoted as canon here — flagged for
-a reconciliation record if the naming actually matters going forward.
+**"Pearl" is superseded.** Several sources (the
+[UI/UX Review](../../sources/docs/lumashield-ui-ux-review.md), the
+[Constitution outline](../../sources/docs/shield-constitution-v2-2026-07-05.pdf.meta.md),
+and [SHIELD Architecture Series Vol. II Part II](../../sources/docs/shield-architecture-series-volume-ii-part-ii.pdf.meta.md))
+use "Pearl" for this same central-anchor role. Confirmed with the
+product owner: Core/AOB is current, Pearl is old, dropped naming — see
+[reconciliation/2026-09-07-core-not-pearl.md](../../reconciliation/2026-09-07-core-not-pearl.md).
 
-## Window system (context layer)
+## Window / Context Window — superseded
 
-The Window is a separate element from the Shield itself:
-
-- **Role:** provides context only; does not initiate action.
-- **Content types:** protocol preview, participant visibility, optional
-  environmental context.
-
-This maps onto the functional role split in the interaction doctrine:
-**Shield = Action**, **Window = Context** (see
-[interaction-doctrine.md](../decisions/0001-interaction-doctrine.md)).
+An earlier "Window" (display-only, non-action) primitive, and its
+later "Context Window" rename, are both superseded per
+[reconciliation/2026-09-07-core-not-pearl.md](../../reconciliation/2026-09-07-core-not-pearl.md) —
+the same reconciliation that dropped "Pearl." The
+"Shield = Action / Window = Context" functional split in
+[interaction-doctrine.md](../decisions/0001-interaction-doctrine.md)
+is affected and needs its own follow-up correction; not yet done.
 
 ## Packet model
 

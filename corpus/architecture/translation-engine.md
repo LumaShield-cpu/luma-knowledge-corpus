@@ -6,6 +6,11 @@ Proceed."). Status per document: **Canonical Architecture —
 Implementation Conformance Pending** — the architecture is approved;
 no implementation is yet certified to conform to it.
 
+See [translation-pipeline.md](translation-pipeline.md) for the
+engineering-level pipeline detail (Ingestion → OKM → OKG → OCM → OCP)
+beneath this constitutional description — draft-tier, but consistent
+with everything below.
+
 ## What it is
 
 > The Translation Engine is Shield Labs Volume I. Its constitutional

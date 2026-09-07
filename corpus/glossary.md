@@ -28,3 +28,18 @@ technical term (a dual technical/marketing split) before the primary
 source was checked — see
 [reconciliation/2026-09-06-quadrants-vs-pads-terminology-corrected.md](../reconciliation/2026-09-06-quadrants-vs-pads-terminology-corrected.md).
 
+### Core
+**Means:** the single highest-priority focal element for the current
+operational moment, resolved by the Experience Composition Engine —
+never user-chosen. Exactly one per composed experience. Part of the
+Core/Ring/Pads/Dial/Adaptive Operational Briefing primitive family.
+**Not to be confused with:** "**Pearl**" — an earlier name for this
+same central-anchor role, used across several sources ( the UI/UX
+Review, the Constitution outline, SHIELD Architecture Series Vol. II
+Part II). Confirmed superseded — see
+[reconciliation/2026-09-07-core-not-pearl.md](../reconciliation/2026-09-07-core-not-pearl.md).
+Also not to be confused with "**Context Window**" / "**Window**" — an
+earlier standalone display-only primitive, also superseded (folded
+into the Adaptive Operational Briefing framing rather than surviving
+as its own named primitive).
+
