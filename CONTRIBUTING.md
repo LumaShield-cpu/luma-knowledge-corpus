@@ -97,27 +97,17 @@ for a case where this fooled a reconciliation pass). Before citing
 "multiple sources agree" as evidence, check what's actually generating
 each source.
 
-### The formal hierarchy (Volume I / Translation Engine matters)
+### Translation Engine / Volume I matters — now out of scope here
 
-For anything touching Translation Engine / Volume I architecture,
-[ARCH-02](sources/docs/arch-02-shield-labs-translation-engine-volume-i-v1.0.0.docx.meta.md)
-§20.1 defines an explicit, ranked source-authority hierarchy — use this
-instead of judgment calls when a question falls within its scope:
-
-1. Explicit project-owner approval and subsequent approved architecture decisions.
-2. ARCH-02 itself (v1.0.0) for Volume I constitutional architecture.
-3. The High-Level Architecture Companion, where it doesn't conflict with ARCH-02.
-4. The Translation Engine Master Reference, as the controlled Phase 1 research annex, where it doesn't conflict with ARCH-02.
-5. Approved downstream schemas, governance specs, security specs, and ADRs, within their delegated scope.
-6. **Everything else** — earlier diagrams, manuals, whiteboards, generated syntheses, domain scenarios — as **non-authoritative evidence or design history**.
-
-In practice, almost all of the ChatGPT-export material in this corpus
-(and the draft SHIELD Architecture Series volumes, which self-mark as
-"not final canon") sits in tier 6 for Volume I questions. It's still
-useful as evidence and design history — just not as the tiebreaker
-when it conflicts with ARCH-02 or an approved decision above it. No
-equivalent formal hierarchy exists yet for Volume II (Enterprise
-SHIELD) — apply the general corroboration rule above until one does.
+ARCH-02 (the formal Translation Engine, Volume I architecture) and its
+own ranked source-authority hierarchy moved to
+[shield-canon](https://github.com/Solid-Stride/shield-canon) as part
+of the Luma/Shield split — this repo no longer holds Volume I content
+or needs to reproduce that hierarchy. If a question actually concerns
+Translation Engine / Volume I architecture, it belongs in shield-canon,
+not here. This repo's own material is LumaShield-scoped; use the
+general corroboration rule above for it, and defer to shield-canon
+entirely for anything broader-Shield.
 
 ## Conventions
 

@@ -23,14 +23,17 @@ the shield-canon repo. This corpus stays LumaShield-only; see
 
 > Everything works in fours.
 
-**This is a LumaShield product decision, not a universal SHIELD
-architectural constraint.** A formally approved Volume II instrument
+**LumaShield is locked at 4 Pads — this is settled.** Universal
+Shield's Pad count is **undecided**, not "deliberately left open by
+design" — a formally approved Volume II instrument
 ([Approval Incorporation Addendum v0.2.1](https://github.com/Solid-Stride/shield-canon/blob/88455efd4221ee9d039888f7c0bdf570a251c840/01_CONSTITUTION/sources/shield-volume-ii-approval-incorporation-addendum-v0.2.1.md),
-now in shield-canon, Decision 5) explicitly states "no universal attention score or fixed
-four-option model governs every Shield" — universal SHIELD leaves the
-option/Pad count open per-Shield. LumaShield specifically has chosen
-four, corroborated independently by the LumaPatentOS inventory and
-*The Shield Universe* atlas. See
+now in shield-canon, Decision 5) explicitly states "no universal
+attention score or fixed four-option model governs every Shield," but
+that rules out treating four as a *universal law*; it doesn't mean
+Shield has affirmatively decided on flexibility as a design principle
+— that call hasn't been made yet. LumaShield's own four is locked,
+corroborated independently by the LumaPatentOS inventory and *The
+Shield Universe* atlas. See
 [reconciliation/2026-09-07-no-fixed-four-option-model.md](../../reconciliation/2026-09-07-no-fixed-four-option-model.md).
 
 LumaShield's Shield is the system's primary interaction object, built

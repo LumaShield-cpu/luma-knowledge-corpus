@@ -2,6 +2,8 @@
 
 Newest first. One line per record: date, topic, link.
 
+- 2026-09-07 — CORRECTED: Luma's (not shield-canon's) copy is authoritative for the 3 duplicated records; LumaShield's 4 Pads is locked, Shield's Pad count is undecided (not "deliberately open") — [2026-09-07-authoritative-copy-correction.md](2026-09-07-authoritative-copy-correction.md)
+
 - 2026-09-07 — shield-canon is out of this corpus's authority scope entirely (not a conflict); Red-in-LumaShield confirmed as its own product choice — [2026-09-07-shield-canon-collision.md](2026-09-07-shield-canon-collision.md)
 
 - 2026-09-07 — Ring and Glow are distinct elements; Red stays forbidden — [2026-09-07-ring-and-glow-split-red-stays-forbidden.md](2026-09-07-ring-and-glow-split-red-stays-forbidden.md)

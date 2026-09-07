@@ -5,8 +5,8 @@
 
 ## Conflict
 
-[shield-architecture-update-002.pdf](../sources/docs/shield-architecture-update-002.pdf)
-is marked **APPROVED** and states:
+shield-architecture-update-002.pdf (since moved to shield-canon as
+part of the Luma/Shield split) is marked **APPROVED** and states:
 
 > This update supersedes earlier assumptions that Luma itself was an
 > LLM, establishing instead that Luma is the persistent personal

@@ -46,10 +46,9 @@ Decision 0002 is rejected, not canon, and must not be cited. It is left
 in place (marked REJECTED) rather than deleted, per this project's
 practice of keeping mistakes on the record rather than erasing them.
 
-Corpus references to it were removed:
-[architecture/system-layers.md](../corpus/architecture/system-layers.md)
-no longer cites it and no longer describes Luma via the Sentence/Verb
-framing.
+Corpus references to it were removed: system-layers.md (since moved
+to shield-canon as part of the Luma/Shield split) no longer cites it
+and no longer describes Luma via the Sentence/Verb framing.
 
 ## Open question
 
@@ -63,4 +62,4 @@ without asserting an overarching grammar.
 ## Corpus update
 
 - [corpus/decisions/0002-expression-engine.md](../corpus/decisions/0002-expression-engine.md) — marked REJECTED.
-- [corpus/architecture/system-layers.md](../corpus/architecture/system-layers.md) — reference removed, rewritten.
+- system-layers.md (since moved to shield-canon) — reference removed, rewritten.

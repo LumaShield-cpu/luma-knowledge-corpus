@@ -1,13 +1,12 @@
 # Reconciliation: "everything works in fours" (4 Pads) vs. the rejected "4×4×4" claim
 
-> **Authoritative copy:** `github.com/Solid-Stride/shield-canon`,
-> `01_CONSTITUTION/reconciliation/2026-09-07-four-pads-vs-rejected-numerology.md`
-> (currently on branch `feature/shield-architecture-migration`,
-> pending merge). Confirmed by the product owner, 2026-09-07 — it's
-> Shield's law. This copy is kept here as a secondary reference for
-> citation from LumaShield-scoped corpus docs; if the two ever diverge
-> in substance rather than just citation style, shield-canon's copy
-> wins.
+> **CORRECTED 2026-09-07:** an earlier version of this notice named
+> shield-canon's copy as authoritative ("it's Shield's law"). That was
+> wrong. **This copy — Luma's — is authoritative.** This record is
+> fundamentally about LumaShield's own 4-Pad product choice, not a
+> universal Shield rule; shield-canon's copy is the secondary
+> reference, and defers to this one if the two ever diverge in
+> substance rather than just citation style.
 
 **Date:** 2026-09-07
 **Author:** Stacey (via reconciliation session)

@@ -45,8 +45,10 @@ free, public, personal-use software; "Shield" (unqualified) is the
 professional/business tier and up.** shield-canon is LumaShield's own
 design-system canon, not a competing claim on the broader SHIELD
 architecture's authority. Not a drift incident — see the product-tier
-note added to
-[corpus/architecture/system-layers.md](../corpus/architecture/system-layers.md).
+note in
+[corpus/architecture/shield-anatomy.md](../corpus/architecture/shield-anatomy.md)
+(moved there from system-layers.md when that file migrated to
+shield-canon during the Luma/Shield split).
 This is the same kind of scoping already established for the
 [four-Pad Shield layout](../corpus/architecture/shield-anatomy.md):
 LumaShield can make its own product-level choices without those
@@ -106,11 +108,12 @@ trail.
 
 ## Corpus update
 
-- [corpus/architecture/system-layers.md](../corpus/architecture/system-layers.md) —
-  added the LumaShield (free/personal) vs. Shield (professional/
-  business+) product-tier distinction. (This doc has since moved to
-  shield-canon as part of the broader-Shield/Luma corpus split —
-  2026-09-07 — but the product-tier fact it recorded remains true.)
+- system-layers.md — added the LumaShield (free/personal) vs. Shield
+  (professional/business+) product-tier distinction. That file has
+  since moved to shield-canon as part of the broader-Shield/Luma
+  corpus split (2026-09-07); the product-tier note itself moved to
+  [corpus/architecture/shield-anatomy.md](../corpus/architecture/shield-anatomy.md)
+  rather than being lost.
 - [corpus/decisions/0003-glow-system.md](../corpus/decisions/0003-glow-system.md) —
   annotated with the LumaShield/shield-canon red exemption.
 - The three shield-canon files (LAWS.md, DESIGN_TOKENS.md, the

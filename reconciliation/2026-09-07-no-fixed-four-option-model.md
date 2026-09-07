@@ -1,13 +1,13 @@
 # Reconciliation: "no fixed four-option model" vs. "4 Pads / everything works in fours"
 
-> **Authoritative copy:** `github.com/Solid-Stride/shield-canon`,
-> `01_CONSTITUTION/reconciliation/2026-09-07-no-fixed-four-option-model.md`
-> (currently on branch `feature/shield-architecture-migration`,
-> pending merge). Confirmed by the product owner, 2026-09-07 — it's
-> Shield's law. This copy is kept here as a secondary reference for
-> citation from LumaShield-scoped corpus docs; if the two ever diverge
-> in substance rather than just citation style, shield-canon's copy
-> wins.
+> **CORRECTED 2026-09-07:** an earlier version of this notice named
+> shield-canon's copy as authoritative ("it's Shield's law"). That was
+> wrong. **This copy — Luma's — is authoritative.** Also corrected:
+> **LumaShield is locked at 4 Pads — this is settled, not "left open
+> by design."** Universal Shield's Pad count is **undecided** (not yet
+> ruled on), which is a different thing than "deliberately flexible."
+> shield-canon's copy is the secondary reference here, and defers to
+> this one if the two ever diverge in substance.
 
 **Date:** 2026-09-07
 **Author:** Stacey (via reconciliation session)
@@ -22,9 +22,10 @@ but distinct claim was already cleared in
 that reconciliation concerned a rejected *packet-schema* numerology
 claim, not this one.)
 
-[shield-volume-ii-approval-incorporation-addendum-v0.2.1.md](../sources/docs/shield-volume-ii-approval-incorporation-addendum-v0.2.1.md)
-— a formally approved, hash-bound, human-signed instrument (Stacey
-Malitowski, 2026-07-17) — freezes, as Decision 5:
+shield-volume-ii-approval-incorporation-addendum-v0.2.1.md (since
+moved to shield-canon as part of the Luma/Shield split) — a formally
+approved, hash-bound, human-signed instrument (Stacey Malitowski,
+2026-07-17) — freezes, as Decision 5:
 
 > Option order is a contextual, constraint-first partial order; **no
 > universal attention score or fixed four-option model governs every
