@@ -1,9 +1,18 @@
-# Reconciliation: shield-canon collision (Constitution naming, forbidden-terms, Red)
+# Reconciliation: shield-canon is out of this corpus's authority scope
 
 **Date:** 2026-09-07
 **Author:** Stacey (via reconciliation session, with cross-session
 investigation by a peer Claude session working directly in
 `github.com/Solid-Stride/shield-canon`)
+
+**Final ruling, direct quote from the product owner (relayed via the
+peer session):** *"shield canon is separate and peer is working on
+reconciliation."* This means shield-canon was never actually a
+candidate for this corpus's authority hierarchy — not a conflict that
+got resolved with an exception, but a system outside this corpus's
+jurisdiction entirely. It's recorded below as a scope note, not a
+conflicts-found record, though the individual findings are kept for
+reference since (b) and (c) are still useful facts to have on hand.
 
 ## Background
 
