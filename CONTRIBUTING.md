@@ -51,6 +51,27 @@ reconcile), you can write directly to `corpus/` citing the source — no
 reconciliation record needed. If you're not sure it's uncontested, it isn't;
 write the record.
 
+## Cross-repo governance
+
+As of 2026-09-07, Stacey has confirmed that **`SHIELD_AGENT_OPERATING_STANDARD.md`
+becomes the umbrella governance standard for this repo, shield-canon,
+and future repos** in this ecosystem. It's currently on an unmerged
+branch in `github.com/Solid-Stride/shield-canon`
+(`lumashield-cpu-agent-governance-standard`), human-authored by Stacey
+Malitowski on 2026-07-17 — not yet citable at a stable path/commit
+here, but the adoption decision itself is confirmed and effective now.
+
+Notably, its authority hierarchy, its "never choose silently between
+conflicting canonical sources" rule, its ban on rewriting approved
+language without authorization, and its rule to log a specification
+gap rather than invent one, all **independently converged** with this
+repo's own `reconciliation/` process and source-authority rules below —
+built without either side knowing the other existed. Once the standard
+is merged and stably citable, this file should be updated to reference
+it directly and defer to its authority hierarchy where the two might
+ever diverge; until then, treat this file's own rules as consistent
+with, not competing against, that standard.
+
 ## Source authority
 
 Not all sources are equal, and recency does not automatically win. In
