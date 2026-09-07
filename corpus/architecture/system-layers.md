@@ -17,7 +17,8 @@ architecture. The constitutional structure is exactly two volumes:
 the product owner, 2026-09-07 — see
 [reconciliation/2026-09-07-shield-canon-collision.md](../../reconciliation/2026-09-07-shield-canon-collision.md).
 This is also why LumaShield gets its own, separately-scoped design
-system ([shield-canon](../../sources/docs/shield-canon-constitution-laws.md)) —
+system ([shield-canon](https://github.com/Solid-Stride/shield-canon),
+a separate repo) —
 it isn't required to inherit every rule that governs the broader
 professional/business Shield architecture (see the precedent already
 established for the [four-Pad layout](shield-anatomy.md)).
