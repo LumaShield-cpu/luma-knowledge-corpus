@@ -6,11 +6,12 @@ Provenance
   Owner: stacey@solidstride.ca
   Dropped locally: 2026-09-07
 
-  This file is a 176-byte local pointer Google Drive leaves behind; the
-  real content lives in Google Drive and was not fetched. The filename
-  ("Canonical Export 2026-09-06") suggests this may be a from-the-day
-  export closely related to arch-02-shield-labs-translation-engine-
-  volume-i-v1.0.0.docx (also dated 2026-09-06) -- worth pulling the
-  actual document content if it's not simply a copy of something
-  already in this corpus.
+  This file is a 176-byte local pointer Google Drive leaves behind.
+  UPDATE 2026-09-07: the actual content has been fetched and ingested
+  as shield-edge-architecture-canonical-consolidated-export-2026-09-06.md
+  in this same directory. This pointer is kept (rather than deleted)
+  because the source Google Doc is a live, actively-developing document
+  ("canonical coverage through section 12233... development continues")
+  -- re-fetch via this doc_id if a newer canonical coverage point is
+  needed later.
 -->
