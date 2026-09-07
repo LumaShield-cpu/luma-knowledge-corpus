@@ -2,12 +2,22 @@
 
 **Source:** [Unified Canon State v3](../../sources/docs/lumacanonos-unified-canon-state-v3.md), §2, §6–9.
 
-## Structural law
+## Structural law — scoped to LumaShield, not universal SHIELD
 
 > Everything works in fours.
 
-The Shield is the system's primary interaction object, built on a fixed
-quaternary structure:
+**This is a LumaShield product decision, not a universal SHIELD
+architectural constraint.** A formally approved Volume II instrument
+([Approval Incorporation Addendum v0.2.1](../../sources/docs/shield-volume-ii-approval-incorporation-addendum-v0.2.1.md),
+Decision 5) explicitly states "no universal attention score or fixed
+four-option model governs every Shield" — universal SHIELD leaves the
+option/Pad count open per-Shield. LumaShield specifically has chosen
+four, corroborated independently by the LumaPatentOS inventory and
+*The Shield Universe* atlas. See
+[reconciliation/2026-09-07-no-fixed-four-option-model.md](../../reconciliation/2026-09-07-no-fixed-four-option-model.md).
+
+LumaShield's Shield is the system's primary interaction object, built
+on this product-level quaternary structure:
 
 - **Shield Frame** — the outer boundary.
 - **4 Pads** — the action zones (see [glossary: Pads](../glossary.md)),

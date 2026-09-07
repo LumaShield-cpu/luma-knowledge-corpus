@@ -2,6 +2,8 @@
 
 Newest first. One line per record: date, topic, link.
 
+- 2026-09-07 — Universal SHIELD has no fixed four-option model; LumaShield's 4 Pads is a product choice, not architectural law — [2026-09-07-no-fixed-four-option-model.md](2026-09-07-no-fixed-four-option-model.md)
+
 - 2026-09-07 — "4 Pads" (UI) vs. the rejected "4×4×4/16-section" packet claim — not a conflict — [2026-09-07-four-pads-vs-rejected-numerology.md](2026-09-07-four-pads-vs-rejected-numerology.md)
 - 2026-09-07 — Volume I/Volume II split supersedes the CanonOS/DesignOS/ScreenOS/EngineeringOS framing — [2026-09-07-volume-split-supersedes-canonos-layers.md](2026-09-07-volume-split-supersedes-canonos-layers.md)
 - 2026-09-07 — Luma runs on an SLM, not an LLM (Update 002 is one step behind) — [2026-09-07-luma-slm-not-llm.md](2026-09-07-luma-slm-not-llm.md)
