@@ -1,5 +1,13 @@
 # Reconciliation: "quadrants" vs "pads" terminology
 
+> **SUPERSEDED 2026-09-06.** This record's resolution was wrong — it
+> was based on an unverified verbal answer, given before the primary
+> source (`lumacanonos-unified-canon-state-v3.md`) had been located and
+> checked. See
+> [2026-09-06-quadrants-vs-pads-terminology-corrected.md](2026-09-06-quadrants-vs-pads-terminology-corrected.md)
+> for the corrected resolution. Left in place, rather than rewritten,
+> as a record of how this went wrong the first time.
+
 **Date:** 2026-09-06
 **Author:** Stacey (via reconciliation session)
 
